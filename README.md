@@ -26,6 +26,13 @@ Olá! estou grata que tenha chegado até aqui... e se vc veio, então sinta-se e
      <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
      <img align="center" alt="Trelo" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
      
+ ## Perfil DIO
+
+Participo da plataforma [Digital Innovation One (DIO)](https://www.dio.me/users/jessica_leticia15), onde estou desenvolvendo habilidades em soft skills, variáveis, operadores lógicos e Godot. Até agora, conquistei 11 badges e desenvolvi 4 habilidades.
+
+![Meu Perfil na DIO](link_para_a_imagem)
+
+### Siga o progresso dos meus estudos e acompanhe meus projetos na DIO e aqui no GitHub!
 
  ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jessica.leticia15@gmail.com)

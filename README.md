@@ -28,11 +28,10 @@ Olá! estou grata que tenha chegado até aqui... e se vc veio, então sinta-se e
      
  ## Perfil DIO
 
-Participo da plataforma [Digital Innovation One (DIO)](https://www.dio.me/users/jessica_leticia15), onde estou desenvolvendo habilidades em soft skills, variáveis, operadores lógicos e Godot. Até agora, conquistei 11 badges e desenvolvi 4 habilidades.
+Participo da [Digital Innovation One (DIO)](https://www.dio.me/users/jessica_leticia15), onde desenvolvo habilidades em soft skills, variáveis, operadores lógicos e Godot. Conquistei 11 badges e desenvolvi 4 habilidades até agora.
 
 ![Meu Perfil na DIO](https://hermes.dio.me/public-users/jessica_leticia15/share/ea76fc785efbe9a58834acc56116fde1.png)
 
-### Siga o progresso dos meus estudos e acompanhe meus projetos na DIO e aqui no GitHub!
-
+### *Acompanhe meu progresso na DIO e no GitHub!*
  ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jessica.leticia15@gmail.com)
